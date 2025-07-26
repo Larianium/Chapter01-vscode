@@ -1,0 +1,24 @@
+#!meta
+
+{"kernelInfo":{"defaultKernelName":"csharp","items":[{"name":"csharp","languageName":"csharp"},{"name":"fsharp","languageName":"F#","aliases":["f#","fs"]},{"name":"html","languageName":"HTML"},{"name":"http","languageName":"HTTP"},{"name":"javascript","languageName":"JavaScript","aliases":["js"]},{"name":"mermaid","languageName":"Mermaid"},{"name":"pwsh","languageName":"PowerShell","aliases":["powershell"]},{"name":"value"}]}}
+
+#!markdown
+
+# Глава 1
+Mixing *rich* **text** and code is cool!
+
+#!csharp
+
+#!about
+
+#!csharp
+
+Console.WriteLine("Hello, Polyglot Notebooks!")
+
+#!csharp
+
+int number = 8;
+
+#!csharp
+
+Console.WriteLine(number);
